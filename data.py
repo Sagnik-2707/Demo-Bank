@@ -1,0 +1,16 @@
+bank = [
+{'account_holder_name': 'John Doe', 'account_number': 123456, 'balance': 1599.0}, 
+{'account_holder_name': 'Jane Smith', 'account_number': 654321, 'balance': 1500.0}, 
+{'account_holder_name': 'Bob Johnson', 'account_number': 987654, 'balance': 1200.0}, 
+{'account_holder_name': 'Sagnik Manna', 'account_number': 123657, 'balance': 3250.0}, 
+{'account_holder_name': 'Rahul Dashgupta', 'account_number': 985675, 'balance': 1500.0}, 
+{'account_holder_name': 'Swapnadeep Mishra', 'account_number': 325698, 'balance': 1200.0}, 
+{'account_holder_name': 'Rohan Banerjee', 'account_number': 753951, 'balance': 1000.0}, 
+{'account_holder_name': 'Sagnik Majumder', 'account_number': 234598, 'balance': 1500.0}, 
+{'account_holder_name': 'Sagnik Biswas', 'account_number': 989994, 'balance': 1200.0}, 
+{'account_holder_name': 'Anish Naskar', 'account_number': 512347, 'balance': 3000.0}, 
+{'account_holder_name': 'Akash Mondal', 'account_number': 498560, 'balance': 2000.0}, 
+{'account_holder_name': 'Sibele Pal', 'account_number': 584740, 'balance': 8000.0}, 
+{'account_holder_name': 'Ishita Datta', 'account_number': 396868, 'balance': 3000.0}, 
+{'account_holder_name': 'Parambrata Chatterjee', 'account_number': 149364, 'balance': 2500.0}, 
+{'account_holder_name': 'Sanjit Dutta', 'account_number': 937587, 'balance': 7000.0}]
